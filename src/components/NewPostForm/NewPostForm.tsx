@@ -8,7 +8,7 @@ export const NewPostForm = () => {
         <input />
       </div>
       <div className={styles.row}>
-        <label>status:</label>
+        <label>status3333:</label>
         <input />
       </div>
       <div className={styles.row}>
