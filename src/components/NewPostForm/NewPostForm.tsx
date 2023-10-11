@@ -4,7 +4,7 @@ export const NewPostForm = () => {
   return (
     <form className={styles.form}>
       <div className={styles.row}>
-        <label>title:</label>
+        <label>title22222:</label>
         <input />
       </div>
       <div className={styles.row}>
