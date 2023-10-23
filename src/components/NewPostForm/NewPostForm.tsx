@@ -1,6 +1,7 @@
 import styles from "./NewPostForm.module.css";
 
 export const NewPostForm = () => {
+  console.log("test");
   return (
     <form className={styles.form}>
       <div className={styles.row}>
